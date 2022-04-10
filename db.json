@@ -1,0 +1,13 @@
+{
+  "hytter": [
+    {
+      "id": 1,
+      "name": "Gamle Storlihytta",
+      "DDLat": 62.74796,
+      "DDLon": 7.14342,
+      "air_temperature": null,
+      "wind_speed": null,
+      "precipitation_amount": null
+    }
+  ]
+}
