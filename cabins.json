@@ -89,6 +89,15 @@
       "air_temperature": null,
       "wind_speed": null,
       "precipitation_amount": null
+    },
+    {
+      "id": 11,
+      "name": "Testhytte",
+      "DDLat": 64.08739,
+      "DDLon": 14.4247,
+      "air_temperature": null,
+      "wind_speed": null,
+      "precipitation_amount": null
     }
   ]
 }
