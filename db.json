@@ -1,5 +1,5 @@
 {
-  "cabins": [
+  "hytter": [
     {
       "id": 1,
       "name": "Gamle Storlihytta",
@@ -7,7 +7,39 @@
       "DDLon": 7.14342,
       "air_temperature": null,
       "wind_speed": null,
-      "precipitation_amount": null
+      "precipitation_amount": null,
+      "avg_temperature": null,
+      "avg_wind": null,
+      "avg_precipitation": null,
+      "image": [
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/e8471mkvq2ep23yvmxkx",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/shb34quiphajpsomlstb",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/g3gjd4htdymbtvhjf35q",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/vdi5gt3tofnph8zbrbny",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/eihmxz0van3tibp9h0v6"
+      ],
+      "beds": 7,
+      "fylke": "Møre og Romsdal",
+      "betjening": "Ubetjent",
+      "altitude": 270,
+      "facilities": ["220v", "Booking", "Strømovn", "Mobildekning", "Steikeovn", "Vedovn"],
+      "description": "Storlihytta ble oppført allerede i 1893 av Grand Hotell i Molde, som et tilbud til deres gjester. Keiser Wilhelm var på besøk på hytta og hadde middagsselskap for sine 40 gjester i 1902. Høsten 2015 overtok DNT Romsdal hytta av Selskabet for Molde Byes Vel. Etter omfattende restaureringsarbeid er hytta nå ferdig restaurert i tett samarbeid med Riksantikvaren og fylkeskonservatoren i Møre og Romsdal.",
+      "booking": "https://reservations.visbook.com/8038?lang=no",
+      "directions": "Adkomst sommer: Alternativ 1: En fin tur oppover lia nord for byen. Flott utsikt, og mange benker å sitte på for å kvile seg. Man kan starte fra Romsdalsmuseet og Holmarka eller parkere ved Grua/Hatlelitunellen. Herifra er det 1,2 km oppover til Storlihytta på gruset tursti. De første metrene går på asfaltert gang og sykkelsti opp til en åpen plass. Her kan man ta til høyre opp gruset sti/lysløype mot Nonsmyra og Skihytta, eller som for denne turen følge gruset vei rett nordover under stort treskilt merket med 'Storlia Varden'. Ingen vanskelig veivalg, bare følg veien oppover. Noe bratt av og til, men fin, god sti. Mulig å ta en snarvei opp lia når du har passert et bord hvor det står Bjarne-benken. Derfra ser du flaggstanga på hytta. Eller du følger grusveien rundt åsen. Alternativ 2: Kjør Vardeveien retning Varden. Parker på en liten parkeringsplass ved skilt 'Storlihytta'. Fra her er det kun 500 meter nedover på lettgått gruset tursti. NB! Her er det kun plass til 2-3 biler. Adkomst vinter: Vinterstid er det kun alternativ 1, da Vardeveien er stengt. Eller man kan komme på ski fra Vardeveien.",
+      "stops": [
+        {
+          "Sollivegen/Bekkevollvegen": 708
+        },
+        {
+          "Peter Solemdals veg": 708
+        },
+        {
+          "Aukravegen": 881
+        },
+        {
+          "Bekkevoll ungdomsskole": 898
+        }
+      ]
     },
     {
       "id": 2,
@@ -16,7 +48,29 @@
       "DDLon": 9.53202,
       "air_temperature": null,
       "wind_speed": null,
-      "precipitation_amount": null
+      "precipitation_amount": null,
+      "avg_temperature": null,
+      "avg_wind": null,
+      "avg_precipitation": null,
+      "image": [
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/cmhymtpn0ihgctdnn9yw",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/ijrtfvuglbzoax8bugju",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/sgkrcx3d9qpsavhaotto",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/zmnygergsskqxas8dqsy",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/m8fjyxjbbumxjkbiulhf",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/mqpxtu9807nyugpt2sxs",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/ddszbvds9dqykbxp7r4r",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/qhjgoiaircq7xmrkogqn"
+        ],
+      "beds": 2,
+      "fylke": "Viken",
+      "betjening": "Ubetjent",
+      "altitude": 725,
+      "facilities": null,
+      "description": "Kongsdamhytta ligger i nordenden av vannet Kongsdammen i Kongsberg kommune. Den ble bygd før 1862 og fungerte som damvokterbolig hvor formannen i arbeidslaget bodde, mens de øvrige i laget bodde i hytta nedenfor. Hytta er i dag fredet. Den ligger fint til på en odde ved demningen og er et populært turmål. Kongsdammen er en av mange dammer som ble anlagt på 1600- og 1700-tallet for å forsyne Kongsberg Sølvverk med driftsvann. Dette er et av flere gode fiskevann i nærområdet. De senere årene har hytta stått åpen for allmennheten. Høsten 2018 ble det fra Knutehytta anlagt ny anleggsveg fram til hytta i forbindelse med damarbeid. Adkomsten er med dette blitt enklere og passer for alle. Halvveis passerer du en gapahuk som også er verdt et besøk. Hytta ble restaurert i 2021 og står nå ferdig og klar for å ta i mot turfolket.",
+      "booking": null,
+      "directions": "Adkomst sommer: Ta E134 fra Kongsberg til Saggrenda. Der tar du inn på Bergmannsveien og følger denne 9 kilometer fram til Knutehytta.Fra parkeringsplassen ved Knutehytta kan du gå eller sykle omtrent 2 km på anleggsvei frem til hytta. På vinteren er det preparert skiløype på denne vegen.Ønsker du er alternativ tur kan du gå stien rundt Kongensdam. Turen til Kongensdamhytta blir da 3 km.Det er også mulig å ta turen fra Funkelia. Følg Korsveien i ca. 13 km eller ta skiheisen til toppen og gå på ski i ca. 7 km. Her kan du også velge den legendariske Kemnerløypa fra Kongensdam tilbake til Funkelia, ca. 8 km. Fra parkering ved avkjøringen på Knuteveien: stier eller oppkjørte skiløyper ved Haus Sachsen. Turretur er 8-10 km avhengig av hvilken trase du velger.",
+      "stops": null
     },
     {
       "id": 3,
@@ -25,7 +79,23 @@
       "DDLon": 6.97167,
       "air_temperature": null,
       "wind_speed": null,
-      "precipitation_amount": null
+      "precipitation_amount": null,
+      "avg_temperature": null,
+      "avg_wind": null,
+      "avg_precipitation": null,
+      "image": [
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/djyu3rpokykcweprggpn",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/v8o0y19fbmo3xmvncgnh"
+        ],
+      "beds": 14,
+      "fylke": "Vestland",
+      "betjening": "Ubetjent",
+      "altitude": 292,
+      "facilities": ["Booking", "Tørkerom", "Strømovn", "Steikeovn", "WC", "Vedovn"],
+      "description": "Austerdalshytta er ein del av det betente anlegget på Tungestølen om sommaren. Men på hausten, vinteren og våren er hytta ein fullverdig ubetent hytte- som ventar på deg! Hytta er heilt ny, og sto ferdig i juli i år (2021), påfølgende vinter og vår er fyrste gong hytta er i bruk som ubetent hytte! Hytta er installert med det du treng for ei overnatting, men hugs å ta med mat og lakenpose! Det er 3 soverom med 12 sengeplassar i hytta, tørkerom og ei stor stove/kjøkken med store vindauge, så ein kan nyte synet av naturen.",
+      "booking": "https://www.subedsaas.com/schedule/BookingST/Austerdalshytta",
+      "directions": "Adkomst sommer: Køyr til Hafslo. Derfrå innover mot Veitastrond. Køyr til endes forbi ein bom (hugs å betala, Vipps 70 kr). Frå bommen er det 5 km inn til hytta. Parkering er nede på flaten ved elva og derifra vandrer du ca 300 meter på fin vei opp til hytta. Det er parkering for rørslehemma ved hytta. Adkomst vinter: Når det er snø, blir det køyrt opp skiløyper frå Veitastrond og inn til Tungestølen. Skituren er omlag 5 km i lett kupert terreng.",
+      "stops": null
     },
     {
       "id": 4,
@@ -34,7 +104,44 @@
       "DDLon": 5.87049,
       "air_temperature": null,
       "wind_speed": null,
-      "precipitation_amount": null
+      "precipitation_amount": null,
+      "avg_temperature": null,
+      "avg_wind": null,
+      "avg_precipitation": null,
+      "image": [
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/ycffldz9he2fd0riekpl",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/ahfv2zhggsbql8phssxo",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/rubxwtcpv9lb31oiyuj6",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/amaziyjc9pl4az2a6yz1",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/edsfmrnuk3hncziwihhk",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/w9euuuha6mhzuk1dqfml",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/xvzobsdqrisc8sclm1nq",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/hdaqhe2hrwnq5qsfe8ui",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/bepdjl55tv1nw3ci889a",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/lecesabmfoohrrckiov5",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/afnl1fd4qjozd3tzpac7",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/yopxjpryeqvysbpszx6r",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/kvtrpvfqidzj6huhgttu"
+        ],
+      "beds": 12,
+      "fylke": "Rogaland",
+      "betjening": "Ubetjent",
+      "altitude": 5,
+      "facilities": ["220v", "Booking", "Fiske", "Strømovn", "Mobildekning", "Steikeovn", "Dusj", "Teltplass", "Vann", "WC"],
+      "description": "Et par hundre meter fra fyret, blant glattskurte svaberg og vindskjeve trær, ligger fyrvokterboligen som huset vokterne som drev landets første støpejernsfyr. Her er det lett å trives! Fyrvokterboligen ligger langt nok inn i le til at man er skjermet for de verste stormkastene, men likevel langt nok ute i havgapet til at man kjenner det når vinden herjer utenfor. Og selv om det er værhardt når det står på, er området rundt Eigerøy fyr først og fremst et idyllisk landskap med store muligheter for kystnært friluftsliv. Her kan du bade, fiske, fange krabber og plukke skjell, padle, ro eller gå deg en tur i det flotte området. ",
+      "booking": "https://reservations.visbook.com/7639?lang=no",
+      "directions": "Adkomst sommer: Fra E39 kjører man Krossmoveien (426) mot Egersund. Følg veien mot Eigerøy på Eigerøyveien (426), og sving ettehvert inn på Ytstebrødveien (4286). Kjør så inn på Segleimsveien som følges til parkering ved Nautasundet. Fra parkeringen er det ca 2,2 km å gå inn til hytta. De første 1,7 km på grusvei, siste 500 meter på sti/fjell. Adkomst vinter: Fra E39 kjører man Krossmoveien (426) mot Egersund. Følg veien mot Eigerøy på Eigerøyveien (426), og sving ettehvert inn på Ytstebrødveien (4286). Kjør så inn på Segleimsveien som følges til parkering ved Nautasundet. Fra parkeringen er det ca 2,2 km å gå inn til hytta. De første 1,7 km på grusvei, siste 500 meter på sti/fjell.",
+      "stops": [
+        {
+          "Midbrød": 2245
+        },
+        {
+          "Segleim": 2323
+        },
+        {
+          "Samslått": 2691
+        }
+      ]
     },
     {
       "id": 5,
@@ -43,7 +150,31 @@
       "DDLon": 13.65903,
       "air_temperature": null,
       "wind_speed": null,
-      "precipitation_amount": null
+      "precipitation_amount": null,
+      "avg_temperature": null,
+      "avg_wind": null,
+      "avg_precipitation": null,
+      "image": [
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/qdxmnlc8iscjflkqguqc",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/h0c2hoxloagrzfzun8nr",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/biptfwchufhmjapp9ago",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/ezow7qqxygxayd34wbvm",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/n5yrrbyxidrrepjkurd5",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/yieg27ful9jef2vc4b66",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/kw5gv0obtjdht6mkbs62",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/gkdmnq9dpgigtw6xh1xa",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/e8aqkpu6egwqttbjafxs",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/q525ysohdzr1pcpqinct"
+        ],
+      "beds": 6,
+      "fylke": "Nordland",
+      "betjening": "Ubetjent",
+      "altitude": 468,
+      "facilities": null,
+      "description": "Området er et godt utgangspunkt for jakt, fiske og toppturer i den ville og vakre Børgefjell nasjonalpark. I Børgefjell er det sørsamisk tamreindrift, det betyr at du kan se aktivitet og spor av reindrift både ved hytta og på turer fra hytta. Husk å vis hensyn. Utleiedelen er nyoppusset og ligger i bakkant av bygget. Denne delen er 20 kvadratmeter og består av ett rom med fem sengeplasser og en brisk uten madrass. Ta med liggeunderlag. Hytta er fullt utstyrt med kjøkken, spisebord, benker og vedovn. Det er ikke sengetøy foruten puter til 6.",
+      "booking": "https://www.inatur.no/hytte/613f31b4eaa897000352eff0/simskardhytta-ei-lita-perle-i-borgefjell-nasjonalpark-grane-i-nordland",
+      "directions": "Adkomst sommer: Fra Trøndelag: 5,5 km nord for Majavatn tar du av til høyre, mot Fiplingvatnet. Kjør langs Øvre Fiplingvatnet til du nærmer deg Nedre Fiplingvatnet. Ta så til høyre og følg skilting mot Børgefjell. Fra 'hovedveien' er det 3 km grusvei opp til sommerparkeringen. På vinteren må du parkere på brøytet plass ved 'hovedveien'/ Austfiplingdalsvegen. Fra Trofors (nordfra langs E6): ta til venstre ved Esso på Trofors og følg skilting mot Hattfjelldal. Etter 11,5 km skal du ta av til høyre over elva, følg skilting mot Fiplingdal/ Villmarksveien. Følg veien til Fiplingdal 'sentrum' (Fiplingdal Landhandel, skole, bhg), og ta til venstre mot Børgefjellskolen. Følg Austfiplingdalsvegen 16 km langs Nedre Fiplingvatnet, før du tar opp til venstre mot Børgefjell. Sommerparkeringen ligger 3 km (langs grusvei) inn i Simskardet. På vinteren må du parkere på brøytet plass ved 'hovedveien'/ Austfiplingdalsvegen.",
+      "stops": null
     },
     {
       "id": 6,
@@ -52,7 +183,25 @@
       "DDLon": 12.97454,
       "air_temperature": null,
       "wind_speed": null,
-      "precipitation_amount": null
+      "precipitation_amount": null,
+      "avg_temperature": null,
+      "avg_wind": null,
+      "avg_precipitation": null,
+      "image": [
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/oeul4p4cnmy7glud2bgu",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/j6zcd28hcmp0xcfbybwm",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/wh5rntuh8jltf9ry5xvw",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/j2jcc6qcczxtxeiamt8f"
+        ],
+      "beds": 4,
+      "fylke": "Trøndelag",
+      "betjening": "Ubetjent",
+      "altitude": 520,
+      "facilities": ["220v", "Fiske", "Vedovn"],
+      "description": "Ei lita og enkel hytte på 15 m2 ved Storkasttjønna.",
+      "booking": "https://www.inatur.no/hytte/5224cf96e4b0b9036db43736/kasttjonnhytta-pa-gjefsjoen-fjellgard",
+      "directions": null,
+      "stops": null
     },
     {
       "id": 7,
@@ -61,7 +210,41 @@
       "DDLon": 10.50014,
       "air_temperature": null,
       "wind_speed": null,
-      "precipitation_amount": null
+      "precipitation_amount": null,
+      "avg_temperature": null,
+      "avg_wind": null,
+      "avg_precipitation": null,
+      "image": [
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/yymauznzk1wvi0v1pdkv",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/mirs6qznsubzm6nou4pb",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/sp1onqpieo9oioauukhw",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/lm70qwtaf2cu9ybfw2yg",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/tdlwkkksjoqtcjm55xlk",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/y8xophe0aiuut4bnhbb9",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/adp5c2hymmizymubuqe2"
+        ],
+      "beds": 11,
+      "fylke": "Viken",
+      "betjening": "Ubetjent",
+      "altitude": 6,
+      "facilities": ["220v", "Booking", "Mobildekning", "Steikeovn", "Vann", "WC"],
+      "description": "Sentralt plassert på idylliske Elnestangen ligger Sjåførboligen. Hytta er beregnet for grupper, skoleklasser, lag- og foreninger og også venne- og familiegrupper. Hytta med 11 sengeplasser er nyrenovert, stor takk til Asker kommune. ",
+      "booking": "https://reservations.visbook.com/7514?lang=no",
+      "directions": "Adkomst mulig med kollektivtransport, sykkel og bil hele året. Adkomst sommer: Det er stor offentlig parkeringsplass 100 meter fra hytta som vi ber dere benytte. Det er ikke tillatt å kjøre helt frem. Ta rutebåt fra Oslo til Vollen. Herfra går det buss videre, gå av på Håkavik. Herfra er det 10 minutters gange frem til hytta. Adkomst vinter: Det er stor offentlig parkeringsplass 100 meter fra hytta som vi ber dere benytte. Det er ikke tillatt å kjøre helt frem.",
+      "stops": [
+        {
+          "Arnestad skole": 604
+        },
+        {
+          "Arnestad": 745
+        },
+        {
+          "Håkavik": 752
+        },
+        {
+          "Vollen": 872
+        }
+      ]
     },
     {
       "id": 8,
@@ -70,7 +253,46 @@
       "DDLon": 8.95715,
       "air_temperature": null,
       "wind_speed": null,
-      "precipitation_amount": null
+      "precipitation_amount": null,
+      "avg_temperature": null,
+      "avg_wind": null,
+      "avg_precipitation": null,
+      "image": [
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/gujub5rcrlaf2yntzk1s",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/pdrvc7wwvymz7gjxnilh",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/lovabqtxheokgraraihr",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/qzbx7jttbnfgw31gomfk",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/siitpiancwdstuencxcy",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/cfas4nxruljn1t53s3um",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/t0wn8m8pr6y1sznxwr5w",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/vcbilbtd9oxsnqbavdso",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/x8ccord8plracdap6hgn",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/uhest1cfeu6fzmlsyvb0",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/n9bkmov1lystesbhr53o",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/vciqmz2um9nxeyuewymm"
+        ],
+      "beds": 18,
+      "fylke": "Agder",
+      "betjening": "Ubetjent",
+      "altitude": 4,
+      "facilities": ["220v", "Båt", "Booking", "Fiske", "Servering", "Dusj"],
+      "description": "Bygningen har en lang historie som «Gjestehus» for familiene som eide Furøya fram til staten overtok hele Furøya i 1993. Alle bygningene på Furøya er fredet av Riksantikvaren. Gjestehuset er restaurert av Aust-Agder Turistforening (AAT) i samarbeid med Aust-Agder fylkeskommune, Furøya IKS og Furøyas Venner. Den ble åpnet som DNT-hytte av statsministeren 1. juli 2021. Gjestehuset inneholder to leiligheter i 2. og 3.etg med 9 senger, bad, kjøkken og stue i hver etasje.  I 2.etg er det 3 soverom med familiekøye. I 3.etg er det et soverom med en familiekøye og en sovesal med 2 familiekøyer. En familiekøye har dobbeltseng nede og enkeltseng oppe. Leiligheten i 3.etg må leies i sin helhet, men i 2.etg kan man leie et enkelt rom eller en enkelt seng. Til hytta hører en rosjekte ‘Terje Vigen’. Den ligger i vika bak Forpakterboligen og kan brukes av våre gjester i begge hyttene.",
+      "booking": "https://reservations.visbook.com/7645?lang=no",
+      "directions": "Adkomst sommer: Adkomst med egen båt eller taxibåt som bestilles på 4145 4145 god tid i forveien. Båt kan også leies hos Fjordsenteret i Sagesund tlf 415 31 212. Der kan det også leies parkeringsplass. Det er offentlige parkeringsplasser i Tvedestrand og på Hagefjordbrygga. Det er også muligheter for gratis parkering i Tvedestrand by.",
+      "stops": [
+        {
+          "Skibolidalen": 837
+        },
+        {
+          "Sagesund": 1023
+        },
+        {
+          "Grønland": 1068
+        },
+        {
+          "Langesandveien": 1136
+        }
+      ]
     },
     {
       "id": 9,
@@ -79,7 +301,27 @@
       "DDLon": 13.26728,
       "air_temperature": null,
       "wind_speed": null,
-      "precipitation_amount": null
+      "precipitation_amount": null,
+      "avg_temperature": null,
+      "avg_wind": null,
+      "avg_precipitation": null,
+      "image": [
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/psgxqlrqv3bypftqorpc",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/fwjpimemzc0bycvohf4w",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/z47zeixetnyn57bsz6ng",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/zjwm5gpdeoph8ucu6jkw",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/stcxao23ln8kesjbt8kp",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/fdoqgwlhb4iuaztichjx"
+        ],
+      "beds": 7,
+      "fylke": "Trøndelag",
+      "betjening": "Ubetjent",
+      "altitude": 280,
+      "facilities": ["Båt", "Kano", "Fiske", "Vedovn"],
+      "description": "Fin hytte med idyllisk beliggenhet på sørspissen av Storholmen i velkjente Mellingsvatnet. Supert utgangspunkt for fiske og friluftsliv. Leie inkluderer robåt og kano. Påhengsmotor tillatt. Storholmhytta har en idyllisk og særegen beliggenhet i og med at den ligger vendt mot sør i vannkanten på en stor holme. Her kan du nyte stillheten og utsikten over Mellingsvatnet. Det er god parkeringsplass ved Mellingsdalveien der båten ligger. Det tar 10-15 minutter å ro over til Storholmen. Båt følger med leien. Ved hytta ligger det også en kano som står til fri disposisjoen.",
+      "booking": "https://www.inatur.no/hytte/50f2ffe9e4b0adea30743b5d",
+      "directions": "Adkomst sommer: Adresse: Mellingsdalsveien 314. Ta av fra E6 ved skilt Mellingsvatnet like sør for Smalåsen.Følg skogsbilvei ca 1,1 km, Ta høyre første veikryss. Parkering etter ca 2 km. Båt. Ro 0,9 km nordover. Adkomst vinter: Parkering ca 1,1 km fra E6. Ta kontakt med behov for transport. Etter isen har lagt seg er det fint å gå på ski over Mellingsvatnet.",
+      "stops": null
     },
     {
       "id": 10,
@@ -88,7 +330,30 @@
       "DDLon": 13.4247,
       "air_temperature": null,
       "wind_speed": null,
-      "precipitation_amount": null
+      "precipitation_amount": null,
+      "avg_temperature": null,
+      "avg_wind": null,
+      "avg_precipitation": null,
+      "image": [
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/gviwcanslyhwhn5srw5m",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/zgjyw9pgyfq2xrl54sea",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/afuzy8sedtxdwki0ovas",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/bwzc9szngbqq7fztqkd2",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/scmkqnijdygnlqs7zpqe",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/dra42qxrslvz1uewyk7x",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/qqkd1qtvatbclq7wlwwn",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/tjrt57016p1zifbzmufs",
+        "https://res.cloudinary.com/ntb/image/upload/w_1280,q_80/v1/cabins/nhs7ilzuvwjm3ohagnpt"
+        ],
+      "beds": 4,
+      "fylke": "Trøndelag",
+      "betjening": "Ubetjent",
+      "altitude": 340,
+      "facilities": ["Båt", "Fiske", "Vedovn"],
+      "description": "Enkel og koselig tømmerhytte ved Storelva i Namskroken i Børgefjell nasjonalpark. Ypperlig utgangspunkt for småviltjakt, fiske, multeplukking og fjellturer videre innover i nasjonalparken. Namskrokhytta er bygd i 1971 og senere restaurert og påbygget nytt bislag i 2008. Hytta ligger like ved Storelva, og er et ypperlig utgangspunkt for jakt og fiske, friluftsliv og vandring videre innover i en av våre eldste og mest urørte nasjonalparker. I Namskroken finner du stor og grov granskog, med kort vei opp til høgfjellet i Børgefjell. Fantastiske fiskemuligheter like ved hyttene og en grei dagstur unna. Tilgjengelige båter ligger ved Belikarvatnet og Jengelskardvatnet.",
+      "booking": "https://www.inatur.no/hytte/50f30921e4b0adea30743b71/namskrokhytta-hos-namsskogan-fjellstyre",
+      "directions": "Adkomst sommer: Ta av fra E6 ved skilt Børgefjell ved Smalåsen. Følg skogsbilveg ca 3 km til veiende og innfallsport. Følg skiltet og klopplagt sti til hytta. Ca. 3,8km langs sti i overkommelig terreng fra parkeringen til hytta.",
+      "stops": null
     }
   ]
 }
