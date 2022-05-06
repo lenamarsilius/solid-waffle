@@ -23,25 +23,21 @@
       "betjening": "Ubetjent",
       "altitude": 270,
       "facilities": ["220v", "Booking", "Strømovn", "Mobildekning", "Steikeovn", "Vedovn"],
-      "description": "Storlihytta ble oppført allerede i 1893 av Grand Hotell i Molde, som et tilbud til deres gjester. Keiser Wilhelm var på besøk på hytta og hadde middagsselskap for sine 40 gjester i 1902. Høsten 2015 overtok DNT Romsdal hytta av Selskabet for Molde Byes Vel. Etter omfattende restaureringsarbeid er hytta nå ferdig restaurert i tett samarbeid med Riksantikvaren og fylkeskonservatoren i Møre og Romsdal. ",
+      "description": "Storlihytta ble oppført allerede i 1893 av Grand Hotell i Molde, som et tilbud til deres gjester. Keiser Wilhelm var på besøk på hytta og hadde middagsselskap for sine 40 gjester i 1902. Høsten 2015 overtok DNT Romsdal hytta av Selskabet for Molde Byes Vel. Etter omfattende restaureringsarbeid er hytta nå ferdig restaurert i tett samarbeid med Riksantikvaren og fylkeskonservatoren i Møre og Romsdal.",
       "booking": "https://reservations.visbook.com/8038?lang=no",
       "directions": "Adkomst sommer: Alternativ 1: En fin tur oppover lia nord for byen. Flott utsikt, og mange benker å sitte på for å kvile seg. Man kan starte fra Romsdalsmuseet og Holmarka eller parkere ved Grua/Hatlelitunellen. Herifra er det 1,2 km oppover til Storlihytta på gruset tursti. De første metrene går på asfaltert gang og sykkelsti opp til en åpen plass. Her kan man ta til høyre opp gruset sti/lysløype mot Nonsmyra og Skihytta, eller som for denne turen følge gruset vei rett nordover under stort treskilt merket med 'Storlia Varden'. Ingen vanskelig veivalg, bare følg veien oppover. Noe bratt av og til, men fin, god sti. Mulig å ta en snarvei opp lia når du har passert et bord hvor det står Bjarne-benken. Derfra ser du flaggstanga på hytta. Eller du følger grusveien rundt åsen. Alternativ 2: Kjør Vardeveien retning Varden. Parker på en liten parkeringsplass ved skilt 'Storlihytta'. Fra her er det kun 500 meter nedover på lettgått gruset tursti. NB! Her er det kun plass til 2-3 biler. Adkomst vinter: Vinterstid er det kun alternativ 1, da Vardeveien er stengt. Eller man kan komme på ski fra Vardeveien.",
       "stops": [
         {
-          "name": "Sollivegen/Bekkevollvegen",
-          "distance": 708
+          "Sollivegen/Bekkevollvegen": 708
         },
         {
-          "name": "Peter Solemdals veg",
-          "distance": 708
+          "Peter Solemdals veg": 708
         },
         {
-          "name": "Aukravegen",
-          "distance": 881
+          "Aukravegen": 881
         },
         {
-          "name": "Bekkevoll ungdomsskole"
-          "distance": 898
+          "Bekkevoll ungdomsskole": 898
         }
       ]
     },
@@ -137,16 +133,13 @@
       "directions": "Adkomst sommer: Fra E39 kjører man Krossmoveien (426) mot Egersund. Følg veien mot Eigerøy på Eigerøyveien (426), og sving ettehvert inn på Ytstebrødveien (4286). Kjør så inn på Segleimsveien som følges til parkering ved Nautasundet. Fra parkeringen er det ca 2,2 km å gå inn til hytta. De første 1,7 km på grusvei, siste 500 meter på sti/fjell. Adkomst vinter: Fra E39 kjører man Krossmoveien (426) mot Egersund. Følg veien mot Eigerøy på Eigerøyveien (426), og sving ettehvert inn på Ytstebrødveien (4286). Kjør så inn på Segleimsveien som følges til parkering ved Nautasundet. Fra parkeringen er det ca 2,2 km å gå inn til hytta. De første 1,7 km på grusvei, siste 500 meter på sti/fjell.",
       "stops": [
         {
-          "navn": "Midbrød",
-          "distance": 2245
+          "Midbrød": 2245
         },
         {
-          "navn": "Segleim",
-          "distance": 2323
+          "Segleim": 2323
         },
         {
-          "navn": "Samslått",
-          "distance": 2691
+          "Samslått": 2691
         }
       ]
     },
@@ -240,20 +233,16 @@
       "directions": "Adkomst mulig med kollektivtransport, sykkel og bil hele året. Adkomst sommer: Det er stor offentlig parkeringsplass 100 meter fra hytta som vi ber dere benytte. Det er ikke tillatt å kjøre helt frem. Ta rutebåt fra Oslo til Vollen. Herfra går det buss videre, gå av på Håkavik. Herfra er det 10 minutters gange frem til hytta. Adkomst vinter: Det er stor offentlig parkeringsplass 100 meter fra hytta som vi ber dere benytte. Det er ikke tillatt å kjøre helt frem.",
       "stops": [
         {
-          "navn": "Arnestad skole",
-          "distance": 604
+          "Arnestad skole": 604
         },
         {
-          "navn": "Arnestad",
-          "distance": 745
+          "Arnestad": 745
         },
         {
-          "navn": "Håkavik",
-          "distance": 752
+          "Håkavik": 752
         },
         {
-          "navn": "Vollen",
-          "distance": 872
+          "Vollen": 872
         }
       ]
     },
@@ -292,20 +281,16 @@
       "directions": "Adkomst sommer: Adkomst med egen båt eller taxibåt som bestilles på 4145 4145 god tid i forveien. Båt kan også leies hos Fjordsenteret i Sagesund tlf 415 31 212. Der kan det også leies parkeringsplass. Det er offentlige parkeringsplasser i Tvedestrand og på Hagefjordbrygga. Det er også muligheter for gratis parkering i Tvedestrand by.",
       "stops": [
         {
-          "navn": "Skibolidalen",
-          "distance": 837
+          "Skibolidalen": 837
         },
         {
-          "navn": "Sagesund",
-          "distance": 1023
+          "Sagesund": 1023
         },
         {
-          "navn": "Grønland",
-          "distance": 1068
+          "Grønland": 1068
         },
         {
-          "navn": "Langesandveien",
-          "distance": 1136
+          "Langesandveien": 1136
         }
       ]
     },
